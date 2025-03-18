@@ -86,12 +86,14 @@ Les tâches sont réalisées en utilisant des pipelines de la bibliothèque **Tr
 
 5. Api:
 
-   ```http://127.0.0.1:8000/docs#/
+   ```
+   http://127.0.0.1:8000/docs#/
 
    ```
 
 6. Interface:
 
-   ```http://127.0.0.1:8502
+   ```
+   http://127.0.0.1:8502
 
    ```
