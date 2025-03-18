@@ -1,0 +1,7 @@
+numpy
+pandas
+"fastapi[standard]"
+"uvicorn[standard]"
+torch
+transformers
+streamlit
