@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import re
 import numpy as np
 
-summarizer = pipeline("summarization", model="facebook/bart-base")
+summarizer = pipeline("summarization", model="google-t5/t5-small")
 
 # charger le modèle NER
 ner_pipeline = pipeline('ner', model='dslim/bert-base-NER')
