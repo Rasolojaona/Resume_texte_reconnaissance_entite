@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.model import summarize_text, ner, clean_text
+from model import summarize_text, ner, clean_text
 
 app = FastAPI()
 
